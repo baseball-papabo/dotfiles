@@ -170,6 +170,8 @@ alias tiga='tig --all'
 alias todo='nvim ~/vimwiki/index.md'
 alias ytdl='yt-dlp --extract-audio --audio-format mp3'
 
+# Alias for working with mongo atlas
+alias ass='appservices'
 
 # Alias that I am too lazy to categorise
 alias npml='npm install --legacy-peer-deps'
