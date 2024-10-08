@@ -131,6 +131,8 @@ bindkey -v
 # fzf settings
 export FZF_DEFAULT_OPTS='--height 50% --reverse --border -m'
 
+# Other env variables
+export awsIP='52.74.85.3'
 
 # Alias and functions
 # Alias for modern linux commands
